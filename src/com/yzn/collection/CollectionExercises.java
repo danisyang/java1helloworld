@@ -40,7 +40,7 @@ public class CollectionExercises {
         }
         iterator.remove();
         System.out.println(collection);
-        System.out.println("contribution");
+        System.out.println("contribution!");
 
 
         //I want a contribution..
