@@ -1,4 +1,4 @@
-package com.yzn;
+package com.yzn.collection;
 
 import java.util.ArrayList;
 import java.util.Collection;
